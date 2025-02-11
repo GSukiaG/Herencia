@@ -1,6 +1,6 @@
 /**
  *
- * @author Alumno
+ * @author Garbine
  */
 
 public class Cuadrado extends Figura {
